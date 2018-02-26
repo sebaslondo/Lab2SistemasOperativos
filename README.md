@@ -1,1 +1,1 @@
-# Lab2SistemasOperativos
+# SistemasOperativos
